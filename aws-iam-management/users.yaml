@@ -1,0 +1,7 @@
+users:
+  - username: bhashkor
+    roles: [AmazonS3FullAccess]
+  - username: piku
+    roles: [AdministratorAccess]
+  - username: rana
+    roles: [AmazonEC2FullAccess, AmazonS3ReadOnlyAccess]
